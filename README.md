@@ -19,3 +19,4 @@
 
 ## 환경 설정 정리
 https://whitepaek.tistory.com/41
+https://mongdal.tistory.com/16
