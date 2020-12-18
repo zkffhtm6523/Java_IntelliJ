@@ -13,5 +13,9 @@
 9. 리팩토링 : F6
 10. 검색 : Ctrl + Shift + A
 
+## 파일별 기능 정리
+1. src - main/test - java/resources/webapp
+2. java - kr.co.iousoft
+
 ## 환경 설정 정리
 https://whitepaek.tistory.com/41
