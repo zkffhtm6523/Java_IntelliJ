@@ -1,0 +1,14 @@
+- 데이터만 저장한다 vs 데이터와 이동하고자 하는 View Page를 같이 저장한다
+
+Model, ModelMap 공통점
+
+model.addAttribute("변수명");
+modelMap.addAttribute("변수명");
+둘 다 addAttribute를 사용함
+Model or ModelMap에 데이터만 저장 후 View에서 사용목적
+
+Model, ModelMap 차이점
+
+Model - 인터페이스
+ModelMap - 클래스
+ 
