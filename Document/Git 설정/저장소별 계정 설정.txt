@@ -1,0 +1,8 @@
+- 저장소별 계정 설정
+[글로벌 - 전체]
+git config --global user.name "zkffhtm6523"
+git config --global user.email "zkffhtm6523@naver.com"
+
+[로컬 - 해당 저장소]
+git config --local user.name "zkffhtm6523"
+git config --local user.email "zkffhtm6523@naver.com"
