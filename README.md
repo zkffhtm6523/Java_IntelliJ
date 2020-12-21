@@ -20,3 +20,7 @@
 ## 환경 설정 정리
 https://whitepaek.tistory.com/41
 https://mongdal.tistory.com/16
+
+## Naver Map(네비게이션 거리 기준)
+Naver Cloud Platform 사용 필요, Naver 개발자 사이트 종료 <br>
+https://docs.ncloud.com/ko/naveropenapi_v3/maps/direction/driving.html <br>
