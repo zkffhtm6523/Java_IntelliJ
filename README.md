@@ -67,3 +67,6 @@
 ## Naver Map(네비게이션 거리 기준)
 - Naver Cloud Platform 사용 필요, Naver 개발자 사이트 종료
 - https://docs.ncloud.com/ko/naveropenapi_v3/maps/direction/driving.html
+
+# Gitlab
+- http://developer.gaeasoft.co.kr/development-guide/workflow/gitlab-workflow-guide/
